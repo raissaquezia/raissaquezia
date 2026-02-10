@@ -1,4 +1,4 @@
-## Oii, me chamo Raíssa Quezia, estudante de Engenharia da Computação!
+## Olá! Me chamo Raíssa Quezia, estudante de Engenharia da Computação!
 
 Atualmente aprimorando minhas habilidades em programação e desenvolvimento de APIs. Tenho um grande interesse por resolver problemas mais complexos e aprender cada vez mais para atuar nessa área.
 
